@@ -1,3 +1,5 @@
+// A "mut" variable is a variable that is mutable, meaning it can be changed.
+
 fn main() {
     let mut x = 5;
     println!("The value of x is: {}", x);
